@@ -22,8 +22,8 @@ global.settings = {
   AUTO_LIKE_EMOJI: '🍁',
   BANKING_DETAILS: {
     bank: "PALMPAY", // the name of your preferred bank
-    acc_number: "8900930985", // account number for your preferred bank
-    acc_name: "CHIJIOKE NWEKE" // name of your bank
+    acc_number: "8034527722", // account number for your preferred bank
+    acc_name: "VICTORIA ETTE" // name of your bank
   },
   /* You can also replace the numbers with your addresses if you're using crypto, a command for this will come soon. */
   API_KEYS: {
