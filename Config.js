@@ -21,7 +21,7 @@ global.settings = {
   AUTO_LIKE_STATUS: true,
   AUTO_LIKE_EMOJI: '🍁',
   BANKING_DETAILS: {
-    bank: "PALMPAY", // the name of your preferred bank
+    bank: "OPAY", // the name of your preferred bank
     acc_number: "8034527722", // account number for your preferred bank
     acc_name: "VICTORIA ETTE" // name of your bank
   },
