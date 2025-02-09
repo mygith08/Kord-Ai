@@ -6,7 +6,7 @@ global.settings = {
   BOT_NAME: "BOT", // your preferred bot name
   SESSION_ID: 'kord_ai-w2rBW00oQdUq', // replace your_sessionid with yours and make sure its inside rhe quotes
   INVINCIBLE_MODE: false, // toogle invincible mode 
-  WORK_MODE: "Public",
+  WORK_MODE: "Privatemode",
   TIME_ZONE: "Africa/Lagos",
   ANTI_VIEWONCE: true,
   READ_ALL_MESSAGES: false,
