@@ -42,6 +42,6 @@ global.settings = {
   ANTI_PM_SPAM_COUNT: 6,
   AUTO_TYPING: false, // if you wnat the bot to be typing always 
   AUTO_RECORDING: false, //if you want the bot to be recording always
-  ALWAYS_ONLINE: false,
+  ALWAYS_ONLINE: true,
 
 };
